@@ -1,16 +1,8 @@
-# flutter_application_1
+# Rave
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/0BWTNiPO1Qs)
 
-## Getting Started
+This is a Flutter project inspired by this [design](https://medium.muz.li/ui-ux-case-study-the-best-way-to-purchase-a-ticket-for-your-favorite-festival-be77ff94ece7)
+#
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Video thumbnail image](https://i.ytimg.com/vi/0BWTNiPO1Qs/hq720.jpg)
